@@ -1,0 +1,44 @@
+.btn btn-outline-success{
+    background-color: aliceblue;
+}
+.form-control.me-2{
+    background-color: rgb(249, 249, 249) ;
+    color: rgb(183, 181, 181);
+    border-radius: 4px;
+}
+
+.carousel-item{
+    height: 400px;
+   
+}
+.container{
+    margin-top: 37px;
+}
+.bd-placeholder-img{
+    width: 197px;
+}
+.bd-placeholde-img{
+    width: 197px;
+    height: 211px;
+}
+.bd-placehoder-img{
+    width: 197px;
+    height: 211px;
+}
+.row.featurette{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.bd-placeholder-img.bd-placeholder-img-lg.featurette-image.img-fluid.mx-auto{
+    width: 500px;
+}
+.bd-placeholder-img.bd-placeholder-img-lg.featurette-image.img-fluid.mx-auto{
+    width: 500px;
+}
+.d-flex{
+    height: 34px;
+    
+}
